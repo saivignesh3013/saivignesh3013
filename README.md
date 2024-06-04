@@ -1,6 +1,6 @@
 # Hi there, I'm Erramsetti Sai Vignesh 👋
 
-![Banner Image](https://www.cisa.gov/sites/default/files/styles/hero_large/public/2023-01/23_0127_ecd_ps-cyber_header_1600x600.png?h=e0d9a4bb&itok=tn8cHABi)
+![Banner Image](https://github.com/saivignesh3013/saivignesh3013/blob/main/SAI%20VIGNESH%20(1).png)
 
 ## About Me
 
