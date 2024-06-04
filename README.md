@@ -1,6 +1,6 @@
 # Hi there, I'm Erramsetti Sai Vignesh 👋
 
-![Banner Image](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub+Profile)
+![Banner Image](https://www.cisa.gov/sites/default/files/styles/hero_large/public/2023-01/23_0127_ecd_ps-cyber_header_1600x600.png?h=e0d9a4bb&itok=tn8cHABi)
 
 ## About Me
 
@@ -18,37 +18,11 @@ Aspiring Cyber Security Engineer with hands-on experience in network security, e
 
 ### Keylogger in Python
 A simple yet effective keylogger implemented in Python. This project logs all keystrokes and stores them in a file for further analysis.
-- [Repository Link](https://github.com/saivignesh3013/keylogger)
+- [Repository Link](https://github.com/saivignesh3013/PRODIGY_CS_04)
 
 ### Packet Sniffer in Python
 A packet sniffer tool developed using Python that captures and analyzes network packets for monitoring and security purposes.
-- [Repository Link](https://github.com/saivignesh3013/packet-sniffer)
-
-## Experience
-
-### Network Security Associate at Fortinet
-*January 2024 - March 2024 | Sunnyvale, California*
-
-- Engineered and implemented cutting-edge network security solutions, configuring firewalls to protect data integrity and prevent cyber attacks.
-- Conducted comprehensive security audits, identifying and remediating critical vulnerabilities, reducing potential threats by 40%.
-- Collaborated with cross-functional teams to address security incidents promptly, ensuring uninterrupted operations.
-
-### Cyber Security Intern at Prodigy Info Tech
-*Current Position*
-
-- Engaging in various cybersecurity tasks and projects, gaining practical experience in protecting information systems.
-
-## Education
-
-- **Bachelor of Computer Science and Engineering - Cyber Security**, SR University | Expected 2024 | Grade: 8.5
-- **Intermediate - PCM**, Narayana Junior College | 2021 - 2023 | Percentage: 96.5
-- **Matriculation**, Fatima Convent High School | 2018 - 2021 | Grade: 9.7
-
-## Certifications
-
-- Fortinet Certified Associate Cybersecurity (January 2024)
-- Fortinet Certified Fundamentals Cybersecurity (January 2024)
-- Python Essentials 1 (October 2023)
+- [Repository Link](https://github.com/saivignesh3013/PRODIGY_CS_05)
 
 ## Technical Skills
 
@@ -56,17 +30,8 @@ A packet sniffer tool developed using Python that captures and analyzes network 
 - **Operating Systems**: Kali Linux, Windows, BlackArch Linux
 - **Tools and Technologies**: Metasploit, Vulnerability Assessment, Information Security, Ethical Hacking
 
-## Soft Skills
-
-- Communication
-- Teamwork
-- Problem-Solving
-- Time Management
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/erramsettisaivignesh/)
 - [GitHub](https://github.com/saivignesh3013)
 - [Email](mailto:work.saivignesh@gmail.com)
-
-![Profile Image](https://via.placeholder.com/150)
